@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E38C4AEF-7C80-469A-8A32-4C3A118D5E9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7A2CA2A-AD93-4FEA-AE2E-1B8D441AE462"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewBackSample/IconSelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7A2CA2A-AD93-4FEA-AE2E-1B8D441AE462 - cb2de1aea56db0d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewBackSample.IconSelectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewBackSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fukagihina/Desktop/UIKitTutorial/CollectionViewBackSample/CollectionViewBackSample/IconSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "A7A2CA2A-AD93-4FEA-AE2E-1B8D441AE462 - cb2de1aea56db0d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewBackSample.IconSelectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewBackSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fukagihina/Desktop/UIKitTutorial/CollectionViewBackSample/CollectionViewBackSample/IconSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF481C2B-B13F-4F67-9734-5D0B1FB15635"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewBackSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF481C2B-B13F-4F67-9734-5D0B1FB15635 - ed979038ecf99ebc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewBackSample.ViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "CollectionViewBackSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fukagihina/Desktop/UIKitTutorial/CollectionViewBackSample/CollectionViewBackSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "BF481C2B-B13F-4F67-9734-5D0B1FB15635 - ed979038ecf99ebc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewBackSample.ViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "CollectionViewBackSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fukagihina/Desktop/UIKitTutorial/CollectionViewBackSample/CollectionViewBackSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
